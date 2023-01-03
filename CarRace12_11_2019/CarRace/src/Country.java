@@ -1,0 +1,41 @@
+
+public class Country {
+
+	public static String list[] = { 
+			"Afeganistão", 
+			"África do Sul", 
+			"Albânia", 
+			"Alemanha", 
+			"Arábia Saudita", 
+			"Argentina", 
+			"Austrália", 
+			"Áustria",
+			"Bélgica",
+			"Bolívia",
+			"Brasil",
+			"Bulgária",
+			"Canadá",
+			"Chile",
+			"China",
+			"Colômbia",
+			"Coréia do Sul",
+			"Dinamarca",
+			"Emirados Árabes Unidos",
+			"Espanha",
+			"Estados Unidos",
+			"Finlândia",
+			"França",
+			"Grã-Bretanha (Reino Unido, UK)",
+			"Holanda",
+			"índia",
+			"Irlanda",
+			"Itália",
+			"Japão",
+			"Nova Zelândia",
+			"Paraguai",
+			"Portugal",
+			"Suíça",
+			"Uruguai",
+			"Zâmbia"};
+
+}
